@@ -1,0 +1,214 @@
+{  
+   "createdAt":1503854178000,
+   "id":901855908497686529,
+   "text":"RT @JitenTalele: @JitenTalele",
+   "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "inReplyToStatusId":-1,
+   "inReplyToUserId":-1,
+   "inReplyToScreenName":null,
+   "geoLocation":null,
+   "place":null,
+   "retweetCount":0,
+   "retweetedStatus":{  
+      "createdAt":1503854041000,
+      "id":901855331134865412,
+      "text":"@JitenTalele",
+      "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "inReplyToStatusId":-1,
+      "inReplyToUserId":901265454903296002,
+      "inReplyToScreenName":"JitenTalele",
+      "geoLocation":null,
+      "place":null,
+      "retweetCount":1,
+      "retweetedStatus":null,
+      "userMentionEntities":[  
+         {  
+            "start":0,
+            "end":12,
+            "name":"Jitendra Talele",
+            "screenName":"JitenTalele",
+            "id":901265454903296002
+         }
+      ],
+      "hashtagEntities":[  
+
+      ],
+      "mediaEntities":[  
+
+      ],
+      "currentUserRetweetId":-1,
+      "user":{  
+         "id":901265454903296002,
+         "name":"Jitendra Talele",
+         "screenName":"JitenTalele",
+         "location":null,
+         "description":null,
+         "descriptionURLEntities":[  
+
+         ],
+         "profileImageUrlHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+         "url":null,
+         "followersCount":1,
+         "status":null,
+         "profileBackgroundColor":"F5F8FA",
+         "profileTextColor":"333333",
+         "profileLinkColor":"1DA1F2",
+         "profileSidebarFillColor":"DDEEF6",
+         "profileSidebarBorderColor":"C0DEED",
+         "profileUseBackgroundImage":true,
+         "showAllInlineMedia":false,
+         "friendsCount":1,
+         "createdAt":1503713403000,
+         "favouritesCount":0,
+         "utcOffset":-1,
+         "timeZone":null,
+         "profileBackgroundImageUrl":"",
+         "profileBackgroundImageUrlHttps":"",
+         "profileBackgroundTiled":false,
+         "lang":"en",
+         "statusesCount":1,
+         "translator":false,
+         "listedCount":0,
+         "protected":false,
+         "contributorsEnabled":false,
+         "profileBackgroundImageURL":"",
+         "profileBannerURL":null,
+         "profileBannerRetinaURL":null,
+         "profileBannerIPadURL":null,
+         "profileBannerIPadRetinaURL":null,
+         "profileBannerMobileURL":null,
+         "profileBannerMobileRetinaURL":null,
+         "verified":false,
+         "followRequestSent":false,
+         "urlentity":{  
+            "start":0,
+            "end":0,
+            "url":"",
+            "expandedURL":"",
+            "displayURL":""
+         },
+         "miniProfileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile_mini.png",
+         "profileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+         "biggerProfileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+         "miniProfileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_mini.png",
+         "originalProfileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+         "profileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+         "biggerProfileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+         "geoEnabled":false,
+         "originalProfileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+         "accessLevel":0,
+         "rateLimitStatus":null
+      },
+      "truncated":false,
+      "favorited":false,
+      "retweet":false,
+      "retweetedByMe":false,
+      "possiblySensitive":false,
+      "urlentities":[  
+
+      ],
+      "contributors":[  
+
+      ],
+      "accessLevel":0,
+      "rateLimitStatus":null
+   },
+   "userMentionEntities":[  
+      {  
+         "start":3,
+         "end":15,
+         "name":"Jitendra Talele",
+         "screenName":"JitenTalele",
+         "id":901265454903296002
+      },
+      {  
+         "start":17,
+         "end":29,
+         "name":"Jitendra Talele",
+         "screenName":"JitenTalele",
+         "id":901265454903296002
+      }
+   ],
+   "hashtagEntities":[  
+
+   ],
+   "mediaEntities":[  
+
+   ],
+   "currentUserRetweetId":-1,
+   "user":{  
+      "id":901265454903296002,
+      "name":"Jitendra Talele",
+      "screenName":"JitenTalele",
+      "location":null,
+      "description":null,
+      "descriptionURLEntities":[  
+
+      ],
+      "profileImageUrlHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "url":null,
+      "followersCount":1,
+      "status":null,
+      "profileBackgroundColor":"F5F8FA",
+      "profileTextColor":"333333",
+      "profileLinkColor":"1DA1F2",
+      "profileSidebarFillColor":"DDEEF6",
+      "profileSidebarBorderColor":"C0DEED",
+      "profileUseBackgroundImage":true,
+      "showAllInlineMedia":false,
+      "friendsCount":1,
+      "createdAt":1503713403000,
+      "favouritesCount":0,
+      "utcOffset":-1,
+      "timeZone":null,
+      "profileBackgroundImageUrl":"",
+      "profileBackgroundImageUrlHttps":"",
+      "profileBackgroundTiled":false,
+      "lang":"en",
+      "statusesCount":2,
+      "translator":false,
+      "listedCount":0,
+      "protected":false,
+      "contributorsEnabled":false,
+      "profileBackgroundImageURL":"",
+      "profileBannerURL":null,
+      "profileBannerRetinaURL":null,
+      "profileBannerIPadURL":null,
+      "profileBannerIPadRetinaURL":null,
+      "profileBannerMobileURL":null,
+      "profileBannerMobileRetinaURL":null,
+      "verified":false,
+      "followRequestSent":false,
+      "urlentity":{  
+         "start":0,
+         "end":0,
+         "url":"",
+         "expandedURL":"",
+         "displayURL":""
+      },
+      "miniProfileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile_mini.png",
+      "profileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "biggerProfileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+      "miniProfileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile_mini.png",
+      "originalProfileImageURLHttps":"https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+      "profileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "biggerProfileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+      "geoEnabled":false,
+      "originalProfileImageURL":"http://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+      "accessLevel":0,
+      "rateLimitStatus":null
+   },
+   "truncated":false,
+   "favorited":false,
+   "retweet":true,
+   "retweetedByMe":false,
+   "possiblySensitive":false,
+   "urlentities":[  
+
+   ],
+   "contributors":[  
+
+   ],
+   "accessLevel":0,
+   "rateLimitStatus":null
+}
