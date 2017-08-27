@@ -32,7 +32,7 @@ http://www.mulesoft.org/schema/mule/file http://www.mulesoft.org/schema/mule/fil
             <dw:set-variable variableName="Date"><![CDATA[%dw 1.0
 %output application/java
 ---
-payload.createdAt
+(payload.createdAt as :number/1000 ) as :datetime  as :string {format:"yyyy-dd-MM"}
 ]]></dw:set-variable>
         </dw:transform-message>
         <logger message="#[payload]" level="INFO" doc:name="Logger"/>
