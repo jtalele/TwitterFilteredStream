@@ -37,5 +37,9 @@ http://www.mulesoft.org/schema/mule/file http://www.mulesoft.org/schema/mule/fil
         </dw:transform-message>
         <logger message="#[payload]" level="INFO" doc:name="Logger"/>
         <file:outbound-endpoint path="src/main/resources/outputDir" outputPattern="Filtered_#[flowVars.Date].csv" connector-ref="FilteredTweetsFile" responseTimeout="10000" doc:name="WriteCSV"/>
+        <catch-exception-strategy doc:name="Catch Exception Strategy">
+            <logger message="Error processing tweets---#[message.exception.getMessage()]" level="INFO" doc:name="SetError"/>
+            <file:outbound-endpoint path="src/main/resources/outputDir" outputPattern="ReDoTweets_#[server.dateTime].json" connector-ref="FilteredTweetsFile" responseTimeout="10000" doc:name="File"/>
+        </catch-exception-strategy>
     </flow>
 </mule>
