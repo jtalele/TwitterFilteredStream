@@ -12,7 +12,7 @@ http://www.mulesoft.org/schema/mule/file http://www.mulesoft.org/schema/mule/fil
     <flow name="filteredstreamFlow">
         <twitter:filtered-stream config-ref="TwitterFiltered" doc:name="Twitter (Streaming)">
             <twitter:keywords>
-                <twitter:keyword>jitentalele</twitter:keyword>
+                <twitter:keyword>fansauthentic</twitter:keyword>
             </twitter:keywords>
         </twitter:filtered-stream>
         <json:object-to-json-transformer doc:name="Object to JSON"/>
