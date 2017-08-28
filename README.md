@@ -21,3 +21,26 @@ Using Jenkins
 2. Create Maven project in Jenkins
 3. Add git repo location and user/pass
 4. In Build section pom.xml, Goal - clean package mule:deploy
+
+Add Below in pom.xml
+<plugin>
+			    <groupId>org.mule.tools.maven</groupId>
+			    <artifactId>mule-maven-plugin</artifactId>
+			    <version>2.0</version>
+			    <configuration>
+			        <deploymentType>cloudhub</deploymentType>
+			        <muleVersion>3.8.3</muleVersion>               <!-- This is the runtime version as it appears on the CloudHub interface -->
+			        <username>jtalele_2</username>
+			        <password>LearnMu1e</password>
+			        <environment>Production</environment>
+			    </configuration>
+			    <executions>
+			        <execution>
+			            <id>deploy</id>
+			            <phase>deploy</phase>
+			            <goals>
+			                <goal>deploy</goal>
+			            </goals>
+			        </execution>
+			    </executions>
+			</plugin>
