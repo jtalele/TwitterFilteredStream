@@ -31,7 +31,7 @@ Add Below plugin in pom.xml
         <deploymentType>cloudhub</deploymentType>
         <muleVersion>3.8.3</muleVersion>               <!-- This is the runtime version as it appears on the CloudHub interface -->
         <username>jtalele_2</username>
-        <password>LearnMu1e</password>
+        <password></password>
         <environment>Production</environment>
     </configuration>
     <executions>
